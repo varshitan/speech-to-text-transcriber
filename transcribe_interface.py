@@ -9,7 +9,7 @@ from deepgram import Deepgram
 from pytube import YouTube
 
 # Setting up Deepgram API key
-dg_key = 'daa6f2ccbadf053682f00f4e0dacda1149fe4eaa'
+dg_key = '**********************'
 dg = Deepgram(dg_key)
 
 def download_and_transcribe(input_source):
