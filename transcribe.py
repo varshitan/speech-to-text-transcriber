@@ -1,6 +1,6 @@
 # Installing necessary libraries for Deepgram SDK and speech-to-text transcription
-#! pip install requests ffmpeg-python
-#! pip install deepgram-sdk==2.12.0
+! pip install requests ffmpeg-python
+! pip install deepgram-sdk==2.12.0
 # Deepgram is chosen for speech-to-text transcription due to its accuracy, speed, and ease of use.
 # It offers advanced features like punctuation and speaker diarization, making it suitable for various transcription needs.
 # Importing required libraries
